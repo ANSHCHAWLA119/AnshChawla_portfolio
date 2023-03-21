@@ -49,7 +49,7 @@ const Qualifications = () => {
             >
               <div className="qualification__data">
                 <div className="">
-                  <h3 className="qualification__title">Web Design</h3>
+                  <h3 className="qualification__title">Matriculation</h3>
                   <span className="qualification__subtitle">
                     Kapurthala - Christ The King Convent Senior Secondary School (Class 10th)&nbsp;&nbsp;
                     Percentage - 85.6
@@ -85,7 +85,7 @@ const Qualifications = () => {
               </div>
               <div className="qualification__data">
                 <div className="">
-                  <h3 className="qualification__title">Web Development</h3>
+                  <h3 className="qualification__title">Higher Secondary</h3>
                   <span className="qualification__subtitle">
                     Kapurthala - MGN Public School &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Class 12th)&nbsp;
                     &nbsp;Percentage - 94.2
